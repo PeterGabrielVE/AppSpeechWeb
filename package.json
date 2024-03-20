@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "annyang": "^2.6.1"
+  },
+  "devDependencies": {
+    "@types/annyang": "^2.6.5"
+  }
+}
